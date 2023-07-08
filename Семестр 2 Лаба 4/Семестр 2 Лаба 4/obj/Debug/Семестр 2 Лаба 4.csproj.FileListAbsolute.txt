@@ -1,0 +1,27 @@
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\bin\Debug\Семестр 2 Лаба 4.exe.config
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\bin\Debug\Семестр 2 Лаба 4.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\bin\Debug\Семестр 2 Лаба 4.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.csprojAssemblyReference.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.Form1.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.FormTask2.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.Properties.Resources.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.csproj.GenerateResource.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.FormTask1.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.FormTask3.resources
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\bin\Debug\Семестр 2 Лаба 4.exe.config
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\bin\Debug\Семестр 2 Лаба 4.exe
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\bin\Debug\Семестр 2 Лаба 4.pdb
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.csproj.AssemblyReference.cache
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.Form1.resources
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.FormTask1.resources
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.FormTask2.resources
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.FormTask3.resources
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр_2_Лаба_4.Properties.Resources.resources
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.csproj.GenerateResource.cache
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.exe
+C:\Users\Gomerich\Documents\GitHub\lab9\Семестр 2 Лаба 4\Семестр 2 Лаба 4\obj\Debug\Семестр 2 Лаба 4.pdb
